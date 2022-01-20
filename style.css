@@ -136,8 +136,11 @@ body {
       grid-template-columns: 60%;
 
     }
-.hero {
-  width: 100vw;
-}
+
+  }
+
+  .Responsive{
+width: 100%;
+height: auto;
 
   }
